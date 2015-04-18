@@ -13,7 +13,7 @@ Simple project to blend between simple b-format beamforming and the proposed met
 First dynamic proof of concept. Loads input and HRIRs and convolves in real time. To run you must first download and install the [*HISSTools*](http://eprints.hud.ac.uk/14897/).
 
 ## Thanks
-- [**KEMAR HRIR database**](http://interface.cipic.ucdavis.edu/) by the *CIPIC- Center for Image Processing and Integrated Computing* [More information](http://interface.cipic.ucdavis.edu/)
+- [**KEMAR HRIR database**](http://interface.cipic.ucdavis.edu/) by the *CIPIC- Center for Image Processing and Integrated Computing*
 - **multiconvolve~** max-msp object from the [**HISSTools**](http://eprints.hud.ac.uk/14897/) collection by *Alexander  Harker and Pierre Alexandre Tremblay*
 
 ## Authors
